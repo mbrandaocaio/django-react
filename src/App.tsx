@@ -3,9 +3,8 @@ import { useState } from 'react'
 import './App.css'
 
 const reactLogo = 'react.svg';
-const viteLogo = 'vite.svg';
 const reactLogoPath = `/static/${reactLogo}`;
-const viteLogoPath = `/static/${viteLogo}`;
+
 
 function App() {
   const [count, setCount] = useState(0)
