@@ -3,6 +3,8 @@ React rodando dentro do framework django.
 
 Rodar o ambiente com source bin/activate
 
+Atualizar libs do django
+
 Rodar migrations com python manage.py makemigrations e python manage.py makemigrations
 
 Rodar o server do django python manage.py runserver
