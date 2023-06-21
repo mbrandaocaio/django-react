@@ -11,4 +11,11 @@ Rodar o server do django python manage.py runserver
 
 Abrir outro terminal no projeto e rodar yarn pra atualizar as libs e yarn dev
 
-##Abrir no navegador na em localhost:8000 e acessar a rota /react
+Abrir no navegador na em localhost:8000 e acessar a rota /react
+
+# Pra build
+No frontend - yarn build
+
+No Backend - python manage.py collectstatic
+
+rodar servidor do djando sem rodar o front pra testar.
