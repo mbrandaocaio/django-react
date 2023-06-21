@@ -6,4 +6,4 @@ Rodar o server do django python manage.py runserver
 
 abrir outro terminal no projeto e rodar yarn pra atualizar as libs e yarn dev
 
-abrir no navegador na em localhost:8000 e acessar a rota /teste
+abrir no navegador na em localhost:8000 e acessar a rota /react
