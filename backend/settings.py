@@ -121,8 +121,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 #arquivos estáticos django
 STATICFILES_DIRS = [
-    BASE_DIR / "dist",
-    BASE_DIR / "public"
+    BASE_DIR / "frontend/dist",
+    BASE_DIR / "frontend/public"
 ]
 
 STATIC_ROOT = BASE_DIR / "static"
